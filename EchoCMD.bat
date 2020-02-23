@@ -1,8 +1,10 @@
 @echo off
 title EchoCMD
 
-echo EchoCMD [Version 1.5.1]
+echo EchoCMD [Version 1.5.2]
 echo (c) 2020 Pr0x1mas. All rights reserved.
+ver
+echo (c) 2019 Microsoft Corporation. All rights reserved.
 echo(
 
 :input
